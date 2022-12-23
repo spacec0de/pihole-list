@@ -15,3 +15,5 @@ px.moatads.com
 s0.2mdn.net
 tag.researchnow.com
 tpc.googlesyndication.com
+ade.googlesyndication.com
+encrypted-tbn0.gstatic.com
