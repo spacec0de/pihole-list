@@ -4,3 +4,14 @@
 
 ### --- Obtrusive ad domains ---
 ads.us.criteo.com
+ad.doubleclick.net
+adservice.google.com
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+mb.moatads.com
+pagead2.googlesyndication.com
+partner.googleadservices.com
+px.moatads.com
+s0.2mdn.net
+tag.researchnow.com
+tpc.googlesyndication.com
