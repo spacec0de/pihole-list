@@ -1,0 +1,6 @@
+# Title: Pihole Blocklist
+# Version: 2022-12-22
+# Description: Random list of malware and obtrusive ad domains
+
+### --- Obtrusive ad domains ---
+ads.us.criteo.com
